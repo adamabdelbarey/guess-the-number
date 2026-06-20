@@ -73,15 +73,17 @@ guess-the-number/
 Follow these steps:
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/adamabdelbarey/guess-the-number.git
-2. Go to project folder
-cd guess-the-number
-3. Open the project
 ```
+git clone https://github.com/adamabdelbarey/guess-the-number.git
+```
+### 2. Go to project folder
+```
+cd guess-the-number
+```
+### 3. Open the project
 Just open index.html in your browser.
 
-💡 Future Improvements
+### 💡 Future Improvements
 🎚️ Add difficulty levels (Easy / Medium / Hard)
 ⏱️ Add timer mode
 🔊 Add sound effects
@@ -89,9 +91,9 @@ Just open index.html in your browser.
 🎨 Improve animations and UI effects
 👨‍💻 Author
 
-Developed by Adam Abdelbarey
+**Developed by Adam Abdelbarey**
 
-📜 License
+## 📜 License
 
 © 2026 Adam Abdelbarey. All rights reserved.  
 This project is for portfolio demonstration only.  
