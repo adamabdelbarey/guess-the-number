@@ -14,8 +14,6 @@ The player tries to guess a randomly generated number within a limited number of
 
 ## 📸 Preview
 
-Add a screenshot of your game:
-
 <img width="1920" height="1080" alt="{9522DDB6-F0A9-491A-A9BA-D4C4519D3785}" src="https://github.com/user-attachments/assets/8f12df8a-767b-4c67-80a2-2d666c34e2a9" />
 
 
