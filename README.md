@@ -16,7 +16,8 @@ The player tries to guess a randomly generated number within a limited number of
 
 Add a screenshot of your game:
 
-<img width="1920" height="1080" alt="{99CFFB21-DBD4-4B29-A021-563B12952632}" src="https://github.com/user-attachments/assets/2f5b386e-10e7-4a32-8aaf-28a61fc0152f" />
+<img width="1920" height="1080" alt="{9522DDB6-F0A9-491A-A9BA-D4C4519D3785}" src="https://github.com/user-attachments/assets/8f12df8a-767b-4c67-80a2-2d666c34e2a9" />
+
 
 
 
