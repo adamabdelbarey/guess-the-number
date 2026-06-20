@@ -1,0 +1,25 @@
+:root {
+    --bs-btn-bg: #dc4040 !important;
+    --bs-primary-rgb: 220, 64, 64 !important;
+}
+
+body {
+    background: linear-gradient(45deg, #dc4040, #ff7b7b);
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #dc4040;
+    --bs-btn-border-color: #dc4040;
+
+    --bs-btn-hover-bg: #b83232;
+    --bs-btn-hover-border-color: #b83232;
+
+    --bs-btn-active-bg: #a52e2e;
+    --bs-btn-active-border-color: #a52e2e;
+}
+
+.btn-primary:hover {
+    background-color: #b83232 !important;
+    border-color: #b83232 !important;
+}
