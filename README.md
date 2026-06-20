@@ -78,7 +78,7 @@ git clone https://github.com/adamabdelbarey/guess-the-number.git
 2. Go to project folder
 cd guess-the-number
 3. Open the project
-
+```
 Just open index.html in your browser.
 
 💡 Future Improvements
