@@ -6,9 +6,8 @@ The player tries to guess a randomly generated number within a limited number of
 ---
 
 ## 🚀 Live Demo
-Add your live link here (GitHub Pages / Netlify / Vercel):
 
-https://your-live-demo-link.com
+[Press Here](https://adamabdelbarey.github.io/guess-the-number/)
 
 
 ---
@@ -16,6 +15,8 @@ https://your-live-demo-link.com
 ## 📸 Preview
 
 Add a screenshot of your game:
+
+<img width="1920" height="1080" alt="{99CFFB21-DBD4-4B29-A021-563B12952632}" src="https://github.com/user-attachments/assets/2f5b386e-10e7-4a32-8aaf-28a61fc0152f" />
 
 
 
@@ -74,7 +75,7 @@ Follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/guess-the-number.git
+git clone https://github.com/adamabdelbarey/guess-the-number.git
 2. Go to project folder
 cd guess-the-number
 3. Open the project
@@ -93,4 +94,6 @@ Developed by Adam Abdelbarey
 
 📜 License
 
-This project is open source and free to use.
+© 2026 Adam Abdelbarey. All rights reserved.  
+This project is for portfolio demonstration only.  
+Copying or redistribution without permission is not allowed.
